@@ -1,6 +1,5 @@
-# CJM018-LosMartinez_PUBLIC
 
-Jaramillo Mora, Los Martinez, ASSETS
+# CJM018-LosMartinez_PUBLIC
 
 # Aviso Legal y Licencia de Uso
 
@@ -13,3 +12,4 @@ Jaramillo Mora, Los Martinez, ASSETS
 - **Prohibida la distribución**: Ningún archivo puede ser descargado, replicado, compartido o reutilizado por terceros ajenos a **Workobot SAS** bajo ninguna circunstancia.
 
 **Workobot SAS** se reserva el derecho de modificar o revocar el acceso a este repositorio en cualquier momento y sin previo aviso.
+    
